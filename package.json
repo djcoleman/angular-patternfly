@@ -1,7 +1,7 @@
 {
   "author": "Red Hat",
   "name": "angular-patternfly",
-  "version": "4.14.0",
+  "version": "4.14.0.redhat-1",
   "license": "Apache-2.0",
   "description": "Angular extension of the PatternFly project.",
   "keywords": [
@@ -70,7 +70,7 @@
     "bootstrap": "~3.3.7",
     "bootstrap-select": "~1.12.4",
     "c3": "~0.4.11",
-    "components-jqueryui": "components/jqueryui#1.12.1",
+    "jquery-ui": "~1.12.1",
     "d3": "~3.5.17",
     "datatables.net": "^1.10.12",
     "datatables.net-select": "~1.2.0",
